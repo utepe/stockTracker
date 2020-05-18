@@ -1,1 +1,1 @@
-ECHO is on.
+# Stock Tracker
